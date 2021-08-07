@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">code1</string>
+    <string name="messagetext">...</string>
+    <string name="textchange">change</string>
 </resources>
